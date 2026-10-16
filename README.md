@@ -5,11 +5,7 @@
 - `<Gijs Schuur>` | `<3970809>` | `@<gijss08>`
 - `<Atahan Dalgin>` | `<3377148>` | `@<adalgin>`
 - `<Gia Sickel>` | `3885798>` | `@<giasickel-web>`
-<<<<<<< HEAD
 - `<Varvara Alexeyenko>` | `<3565122>` | `@<val3r1an37>`
-=======
-- `<student name>` | `<student ID>` | `@<GitHub username>`
->>>>>>> 99e5942726cb7c2afadf9eef3a504e403c47ed1e
 
 Adjust the number of lines to your group size.
 Keep student details in your group's private repository.
@@ -34,7 +30,7 @@ One group member completes these steps:
    A commit records changes with a message and an author.
 3. Through **Settings > Collaborators**, invite every teammate and the instructor, `brenobeirigo`.
    Share the group repository URL so everyone can accept their invitation.
-
+   
 ## Make your own contribution
 
 Every student completes these steps using their own account and computer.
