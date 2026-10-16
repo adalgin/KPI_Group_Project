@@ -5,7 +5,11 @@
 - `<Gijs Schuur>` | `<3970809>` | `@<gijss08>`
 - `<Atahan Dalgin>` | `<3377148>` | `@<adalgin>`
 - `<Gia Sickel>` | `3885798>` | `@<giasickel-web>`
-- `<Varvara ALexeyenko>` | `<3565122>` | `@<val3r1an37>`
+<<<<<<< HEAD
+- `<Varvara Alexeyenko>` | `<3565122>` | `@<val3r1an37>`
+=======
+- `<student name>` | `<student ID>` | `@<GitHub username>`
+>>>>>>> 99e5942726cb7c2afadf9eef3a504e403c47ed1e
 
 Adjust the number of lines to your group size.
 Keep student details in your group's private repository.
